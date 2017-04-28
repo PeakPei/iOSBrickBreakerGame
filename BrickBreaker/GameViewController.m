@@ -48,6 +48,10 @@
     // Present the scene.
     [skView presentScene:scene];
 }
+//hiding status bar
+-(BOOL)preferStatusBarHidden {
+    return YES;
+}
 
 - (BOOL)shouldAutorotate
 {

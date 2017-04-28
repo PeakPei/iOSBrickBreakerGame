@@ -12,10 +12,17 @@
 		7B02EB481A4332440068218C /* GameScene.m in Sources */ = {isa = PBXBuildFile; fileRef = 7B02EB471A4332440068218C /* GameScene.m */; };
 		7B02EB4A1A4332450068218C /* GameScene.sks in Resources */ = {isa = PBXBuildFile; fileRef = 7B02EB491A4332450068218C /* GameScene.sks */; };
 		7B02EB4D1A4332450068218C /* GameViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 7B02EB4C1A4332450068218C /* GameViewController.m */; };
-		7B02EB501A4332450068218C /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 7B02EB4E1A4332450068218C /* Main.storyboard */; };
 		7B02EB521A4332450068218C /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 7B02EB511A4332450068218C /* Images.xcassets */; };
 		7B02EB551A4332450068218C /* LaunchScreen.xib in Resources */ = {isa = PBXBuildFile; fileRef = 7B02EB531A4332450068218C /* LaunchScreen.xib */; };
 		7B02EB611A43324A0068218C /* BrickBreakerTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 7B02EB601A43324A0068218C /* BrickBreakerTests.m */; };
+		7B2643C61A45D04D009A921F /* NeonGreenBrick.png in Resources */ = {isa = PBXBuildFile; fileRef = 7B2643C51A45D04D009A921F /* NeonGreenBrick.png */; };
+		7B2643CA1A45D0AB009A921F /* spark.png in Resources */ = {isa = PBXBuildFile; fileRef = 7B2643C81A45D0AB009A921F /* spark.png */; };
+		7B2643CC1A45D163009A921F /* GreenBrickBreak.sks in Resources */ = {isa = PBXBuildFile; fileRef = 7B2643CB1A45D163009A921F /* GreenBrickBreak.sks */; };
+		7B2643CE1A45D360009A921F /* GreenBreak.sks in Resources */ = {isa = PBXBuildFile; fileRef = 7B2643CD1A45D360009A921F /* GreenBreak.sks */; };
+		7B35D1321A43C54F00F20E64 /* GPaddle.png in Resources */ = {isa = PBXBuildFile; fileRef = 7B35D1311A43C54F00F20E64 /* GPaddle.png */; };
+		7BB7F5A11A44E2470015C49D /* gball.png in Resources */ = {isa = PBXBuildFile; fileRef = 7BB7F5A01A44E2470015C49D /* gball.png */; };
+		BDFDA3D11EB301F600098D0E /* BrickG@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = BDFDA3D01EB301F600098D0E /* BrickG@2x.png */; };
+		BDFDA3D51EB3022F00098D0E /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = BDFDA3D41EB3022F00098D0E /* Main.storyboard */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -39,12 +46,19 @@
 		7B02EB491A4332450068218C /* GameScene.sks */ = {isa = PBXFileReference; lastKnownFileType = file.sks; path = GameScene.sks; sourceTree = "<group>"; };
 		7B02EB4B1A4332450068218C /* GameViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = GameViewController.h; sourceTree = "<group>"; };
 		7B02EB4C1A4332450068218C /* GameViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = GameViewController.m; sourceTree = "<group>"; };
-		7B02EB4F1A4332450068218C /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
 		7B02EB511A4332450068218C /* Images.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Images.xcassets; sourceTree = "<group>"; };
 		7B02EB541A4332450068218C /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.xib; name = Base; path = Base.lproj/LaunchScreen.xib; sourceTree = "<group>"; };
 		7B02EB5A1A4332490068218C /* BrickBreakerTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = BrickBreakerTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		7B02EB5F1A43324A0068218C /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		7B02EB601A43324A0068218C /* BrickBreakerTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = BrickBreakerTests.m; sourceTree = "<group>"; };
+		7B2643C51A45D04D009A921F /* NeonGreenBrick.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = NeonGreenBrick.png; sourceTree = "<group>"; };
+		7B2643C81A45D0AB009A921F /* spark.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = spark.png; sourceTree = "<group>"; };
+		7B2643CB1A45D163009A921F /* GreenBrickBreak.sks */ = {isa = PBXFileReference; lastKnownFileType = file.sks; path = GreenBrickBreak.sks; sourceTree = "<group>"; };
+		7B2643CD1A45D360009A921F /* GreenBreak.sks */ = {isa = PBXFileReference; lastKnownFileType = file.sks; path = GreenBreak.sks; sourceTree = "<group>"; };
+		7B35D1311A43C54F00F20E64 /* GPaddle.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = GPaddle.png; sourceTree = "<group>"; };
+		7BB7F5A01A44E2470015C49D /* gball.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = gball.png; sourceTree = "<group>"; };
+		BDFDA3D01EB301F600098D0E /* BrickG@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "BrickG@2x.png"; sourceTree = "<group>"; };
+		BDFDA3D41EB3022F00098D0E /* Main.storyboard */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.storyboard; path = Main.storyboard; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -93,7 +107,7 @@
 				7B02EB491A4332450068218C /* GameScene.sks */,
 				7B02EB4B1A4332450068218C /* GameViewController.h */,
 				7B02EB4C1A4332450068218C /* GameViewController.m */,
-				7B02EB4E1A4332450068218C /* Main.storyboard */,
+				BDFDA3D41EB3022F00098D0E /* Main.storyboard */,
 				7B02EB511A4332450068218C /* Images.xcassets */,
 				7B02EB531A4332450068218C /* LaunchScreen.xib */,
 				7B02EB3F1A4332440068218C /* Supporting Files */,
@@ -104,8 +118,15 @@
 		7B02EB3F1A4332440068218C /* Supporting Files */ = {
 			isa = PBXGroup;
 			children = (
+				7B2643C51A45D04D009A921F /* NeonGreenBrick.png */,
+				BDFDA3D01EB301F600098D0E /* BrickG@2x.png */,
+				7BB7F5A01A44E2470015C49D /* gball.png */,
+				7B35D1311A43C54F00F20E64 /* GPaddle.png */,
 				7B02EB401A4332440068218C /* Info.plist */,
 				7B02EB411A4332440068218C /* main.m */,
+				7B2643CB1A45D163009A921F /* GreenBrickBreak.sks */,
+				7B2643C81A45D0AB009A921F /* spark.png */,
+				7B2643CD1A45D360009A921F /* GreenBreak.sks */,
 			);
 			name = "Supporting Files";
 			sourceTree = "<group>";
@@ -171,7 +192,7 @@
 		7B02EB341A4332430068218C /* Project object */ = {
 			isa = PBXProject;
 			attributes = {
-				LastUpgradeCheck = 0610;
+				LastUpgradeCheck = 0720;
 				ORGANIZATIONNAME = EthanPeacock;
 				TargetAttributes = {
 					7B02EB3B1A4332430068218C = {
@@ -208,9 +229,16 @@
 			buildActionMask = 2147483647;
 			files = (
 				7B02EB551A4332450068218C /* LaunchScreen.xib in Resources */,
+				7B2643C61A45D04D009A921F /* NeonGreenBrick.png in Resources */,
+				7BB7F5A11A44E2470015C49D /* gball.png in Resources */,
+				7B2643CA1A45D0AB009A921F /* spark.png in Resources */,
+				7B2643CC1A45D163009A921F /* GreenBrickBreak.sks in Resources */,
+				7B35D1321A43C54F00F20E64 /* GPaddle.png in Resources */,
 				7B02EB521A4332450068218C /* Images.xcassets in Resources */,
+				BDFDA3D51EB3022F00098D0E /* Main.storyboard in Resources */,
+				BDFDA3D11EB301F600098D0E /* BrickG@2x.png in Resources */,
 				7B02EB4A1A4332450068218C /* GameScene.sks in Resources */,
-				7B02EB501A4332450068218C /* Main.storyboard in Resources */,
+				7B2643CE1A45D360009A921F /* GreenBreak.sks in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -254,14 +282,6 @@
 /* End PBXTargetDependency section */
 
 /* Begin PBXVariantGroup section */
-		7B02EB4E1A4332450068218C /* Main.storyboard */ = {
-			isa = PBXVariantGroup;
-			children = (
-				7B02EB4F1A4332450068218C /* Base */,
-			);
-			name = Main.storyboard;
-			sourceTree = "<group>";
-		};
 		7B02EB531A4332450068218C /* LaunchScreen.xib */ = {
 			isa = PBXVariantGroup;
 			children = (
@@ -293,6 +313,7 @@
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
 				COPY_PHASE_STRIP = NO;
 				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_TESTABILITY = YES;
 				GCC_C_LANGUAGE_STANDARD = gnu99;
 				GCC_DYNAMIC_NO_PIC = NO;
 				GCC_OPTIMIZATION_LEVEL = 0;
@@ -355,6 +376,7 @@
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				INFOPLIST_FILE = BrickBreaker/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
+				PRODUCT_BUNDLE_IDENTIFIER = "self.edu.$(PRODUCT_NAME:rfc1034identifier)";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 			};
 			name = Debug;
@@ -365,6 +387,7 @@
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				INFOPLIST_FILE = BrickBreaker/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
+				PRODUCT_BUNDLE_IDENTIFIER = "self.edu.$(PRODUCT_NAME:rfc1034identifier)";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 			};
 			name = Release;
@@ -383,6 +406,7 @@
 				);
 				INFOPLIST_FILE = BrickBreakerTests/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
+				PRODUCT_BUNDLE_IDENTIFIER = "self.edu.$(PRODUCT_NAME:rfc1034identifier)";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/BrickBreaker.app/BrickBreaker";
 			};
@@ -398,6 +422,7 @@
 				);
 				INFOPLIST_FILE = BrickBreakerTests/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
+				PRODUCT_BUNDLE_IDENTIFIER = "self.edu.$(PRODUCT_NAME:rfc1034identifier)";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/BrickBreaker.app/BrickBreaker";
 			};
@@ -422,6 +447,7 @@
 				7B02EB661A43324A0068218C /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		7B02EB671A43324A0068218C /* Build configuration list for PBXNativeTarget "BrickBreakerTests" */ = {
 			isa = XCConfigurationList;
@@ -430,6 +456,7 @@
 				7B02EB691A43324A0068218C /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
